@@ -1,4 +1,4 @@
-## Cara Akses RDP Jumphost dengan Aman dan tertib
+## Cara Akses RDP Jumphost dengan Aman.
 
 1. Ajukan permintaan akses kepada admin.
    - Sampaikan alasan akses dan durasi yang diinginkan.
