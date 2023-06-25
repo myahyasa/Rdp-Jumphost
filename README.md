@@ -62,5 +62,8 @@ Selamat menggunakan RDP Jumphost!
 
 BIT
 
+> **Catatan Penting:** Tutorial ini akan ditutup otomatis/private pada tanggal 28 Juni 2023. Pastikan untuk menyelesaikan tutorial sebelum tanggal tersebut, Jika Anda memiliki pertanyaan lebih lanjut setelah tanggal penutupan, jangan ragu untuk menghubungi tim TI atau administrator yang bertanggung jawab.
+
+
 
 
