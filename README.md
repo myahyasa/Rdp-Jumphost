@@ -10,7 +10,7 @@
 
    ![Google Authenticator](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWBGyhpYkm1vduvEfnmwy9MXoy7dUl9wBFyKatDRJuJNyOFhU2it7E-0K4K4mJrjN2_Byu6cHvEYOIJ9UB6p5gMfjPo7c3TEwj7Av1N621Ai57zPqGE5r8OcP4ir2lQQpdRlLTON_PuZw_SCy5aTWuI3ufO8vTSE4UQa7q570azTrOjzfPoZ-tW0havQ/w513-h286/Screenshot%202023-04-24%20at%206.45.43%20PM.png)
 
-3. Akses URL [stargate.bitcorp.id](https://stargate.bitcorp.id) menggunakan peramban web pilihan Anda.
+3. Akses URL Yang dikirimkan oleh admin, menggunakan peramban web pilihan Anda.
    - Stargate adalah platform yang menyediakan akses ke RDP Jumphost.
    - Pastikan Anda mengakses URL yang tepat yang diberikan oleh admin.
 
